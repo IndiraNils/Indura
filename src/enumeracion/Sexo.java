@@ -11,5 +11,7 @@ package enumeracion;
  */
 public enum Sexo {
     MACHO, HEMBRA;
+
+//Indura
     
 }
